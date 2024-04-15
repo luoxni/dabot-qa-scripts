@@ -1,0 +1,79 @@
+sourcepath,targetpath
+s3://dabot-testing-bucket/QA-Data/SubSet1/QA-Plan - Test8.csv,s3://dabot-testing-bucket/QA-Data/SubSet1/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet1/QA-Plan - Test7.csv,s3://dabot-testing-bucket/QA-Data/SubSet1/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet1/QA-Plan - Test6.csv,s3://dabot-testing-bucket/QA-Data/SubSet1/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet1/QA-Plan - Test5.csv,s3://dabot-testing-bucket/QA-Data/SubSet1/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet1/QA-Plan - Test4.csv,s3://dabot-testing-bucket/QA-Data/SubSet1/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet1/QA-Plan - Test3.csv,s3://dabot-testing-bucket/QA-Data/SubSet1/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet1/QA-Plan - Test2.csv,s3://dabot-testing-bucket/QA-Data/SubSet1/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet1/QA-Plan - Test1.csv,s3://dabot-testing-bucket/QA-Data/SubSet1/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet1/QA-Plan - Test9.csv,s3://dabot-testing-bucket/QA-Data/SubSet1/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet2/Subset2-Test1.csv,s3://dabot-testing-bucket/QA-Data/SubSet2/Subset2-Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet2/Subset2-Test2.csv,s3://dabot-testing-bucket/QA-Data/SubSet2/Subset2-Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet2/Subset2-Test3.csv,s3://dabot-testing-bucket/QA-Data/SubSet2/Subset2-Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet2/Subset2-Test4.csv,s3://dabot-testing-bucket/QA-Data/SubSet2/Subset2-Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet3/Subset3-Test1.csv,s3://dabot-testing-bucket/QA-Data/SubSet3/Subset3-Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet3/Subset3-Test2.csv,s3://dabot-testing-bucket/QA-Data/SubSet3/Subset3-Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet4/Subset4-Test1.csv,s3://dabot-testing-bucket/QA-Data/SubSet4/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet5/Subset5-Test1.csv,s3://dabot-testing-bucket/QA-Data/SubSet5/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet5/Subset5-Test2.csv,s3://dabot-testing-bucket/QA-Data/SubSet5/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet5/Subset5-Test3.csv,s3://dabot-testing-bucket/QA-Data/SubSet5/Subset5-Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet5/Subset5-Test4.csv,s3://dabot-testing-bucket/QA-Data/SubSet5/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet5/Subset5-Test5.csv,s3://dabot-testing-bucket/QA-Data/SubSet5/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet5/Subset5-Test6.csv,s3://dabot-testing-bucket/QA-Data/SubSet5/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet5/Subset5-Test7.csv,s3://dabot-testing-bucket/QA-Data/SubSet5/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet5/Subset5-Test8.csv,s3://dabot-testing-bucket/QA-Data/SubSet5/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet5/Subset5-Test9.csv,s3://dabot-testing-bucket/QA-Data/SubSet5/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet5/Subset5-Test10.csv,s3://dabot-testing-bucket/QA-Data/SubSet5/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet5/Subset5-Test11.csv,s3://dabot-testing-bucket/QA-Data/SubSet5/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet5/Subset5-Test12.csv,s3://dabot-testing-bucket/QA-Data/SubSet5/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet5/Additional-Cases/Subset5-Test1.csv,s3://dabot-testing-bucket/QA-Data/SubSet5/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet5/Additional-Cases/Subset5-Test2.csv,s3://dabot-testing-bucket/QA-Data/SubSet5/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet6/Subset6-Test1.csv,s3://dabot-testing-bucket/QA-Data/SubSet6/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet6/Subset6-Test2.csv,s3://dabot-testing-bucket/QA-Data/SubSet6/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet6/QA-Plan - Test3.csv,s3://dabot-testing-bucket/QA-Data/SubSet6/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet7/Subset7-Test1.csv,s3://dabot-testing-bucket/QA-Data/SubSet7/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet7/Subset7-Test2.csv,s3://dabot-testing-bucket/QA-Data/SubSet7/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet7/Subset7-Test3.csv,s3://dabot-testing-bucket/QA-Data/SubSet7/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet7/Subset7-Test4.csv,s3://dabot-testing-bucket/QA-Data/SubSet7/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet7/Subset7-Test5.csv,s3://dabot-testing-bucket/QA-Data/SubSet7/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet7/Subset7-Test6.csv,s3://dabot-testing-bucket/QA-Data/SubSet7/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet7/Subset7-Test7.csv,s3://dabot-testing-bucket/QA-Data/SubSet7/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet7/Subset7-Test8.csv,s3://dabot-testing-bucket/QA-Data/SubSet7/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet7/Subset7-Test9.csv,s3://dabot-testing-bucket/QA-Data/SubSet7/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet7/Subset7-Test10.csv,s3://dabot-testing-bucket/QA-Data/SubSet7/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet7/Subset7-Test11.csv,s3://dabot-testing-bucket/QA-Data/SubSet7/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet8/QA-Plan - Source1.csv,s3://dabot-testing-bucket/QA-Data/SubSet8/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet8/QA-Plan - Source2.csv,s3://dabot-testing-bucket/QA-Data/SubSet8/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet8/QA-Plan - Source3.csv,s3://dabot-testing-bucket/QA-Data/SubSet8/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet9/QA-Plan - Source1.csv,s3://dabot-testing-bucket/QA-Data/SubSet9/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet9/QA-Plan - Source2.csv,s3://dabot-testing-bucket/QA-Data/SubSet9/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet9/QA-Plan - Source3.csv,s3://dabot-testing-bucket/QA-Data/SubSet9/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet9/QA-Plan - Source4.csv,s3://dabot-testing-bucket/QA-Data/SubSet9/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet9/QA-Plan - Source5.csv,s3://dabot-testing-bucket/QA-Data/SubSet9/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet9/QA-Plan - Source6.csv,s3://dabot-testing-bucket/QA-Data/SubSet9/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet10/Solution_Demo_DataSet - Vendor1.csv,s3://dabot-testing-bucket/QA-Data/SubSet10/Solution_Demo_DataSet - TargetSchema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet10/Solution_Demo_DataSet - Vendor4.csv,s3://dabot-testing-bucket/QA-Data/SubSet10/Solution_Demo_DataSet - TargetSchema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet11/QA-Source1.csv,s3://dabot-testing-bucket/QA-Data/SubSet11/QA-TargetSchema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet11/QA-Source2.csv,s3://dabot-testing-bucket/QA-Data/SubSet11/QA-TargetSchema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet12/QA-Source1.csv,s3://dabot-testing-bucket/QA-Data/SubSet12/QA-TargetSchema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet12/QA-Source2.csv,s3://dabot-testing-bucket/QA-Data/SubSet12/QA-TargetSchema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet12/QA-Source3.csv,s3://dabot-testing-bucket/QA-Data/SubSet12/QA-TargetSchema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet12/QA-Source4.csv,s3://dabot-testing-bucket/QA-Data/SubSet12/QA-TargetSchema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet12/QA-Source5.csv,s3://dabot-testing-bucket/QA-Data/SubSet12/QA-TargetSchema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet13/QA-Source1.csv,s3://dabot-testing-bucket/QA-Data/SubSet13/QA-TargetSchema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet14/QA-Source1.csv,s3://dabot-testing-bucket/QA-Data/SubSet13/QA-TargetSchema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet14/QA-Source2.csv,s3://dabot-testing-bucket/QA-Data/SubSet13/QA-TargetSchema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet14/QA-Source3.csv,s3://dabot-testing-bucket/QA-Data/SubSet13/QA-TargetSchema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet14/QA-Source4.csv,s3://dabot-testing-bucket/QA-Data/SubSet13/QA-TargetSchema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet14/QA-Source5.csv,s3://dabot-testing-bucket/QA-Data/SubSet13/QA-TargetSchema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet15/QA-Source1.csv,s3://dabot-testing-bucket/QA-Data/SubSet15/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet15/QA-Source1.csv,s3://dabot-testing-bucket/QA-Data/SubSet15/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet15/QA-Source3.csv,s3://dabot-testing-bucket/QA-Data/SubSet15/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet15/QA-Source4.csv,s3://dabot-testing-bucket/QA-Data/SubSet15/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet15/QA-Source5.csv,s3://dabot-testing-bucket/QA-Data/SubSet15/QA-Plan - Target_Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet16/QA-Source1.csv,s3://dabot-testing-bucket/QA-Data/SubSet16/QA-Target-Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet16/QA-Source2.csv,s3://dabot-testing-bucket/QA-Data/SubSet16/QA-Target-Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet16/QA-Source3.csv,s3://dabot-testing-bucket/QA-Data/SubSet16/QA-Target-Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet16/QA-Source4.csv,s3://dabot-testing-bucket/QA-Data/SubSet16/QA-Target-Schema.csv
+s3://dabot-testing-bucket/QA-Data/SubSet16/QA-Source5.csv,s3://dabot-testing-bucket/QA-Data/SubSet16/QA-Target-Schema.csv
