@@ -86,12 +86,12 @@ def call_test(rootdir):
                 start_time = time.time()
                 print(Tf, Sf ,"current run ",runcount)
                 runcount+=1
-                output = requests.request("POST", Url, headers=headers, data=Payload(Tf,Sf))
+                output = requests.request("POST", Url, headers=headers, data=Payload(Tf,Sf)) -> Response
                 end_time = time.time()
                 response= {output.text}
                 response_time = end_time - start_time
                 response_J= (output.json())
-                if response_J['success']==True :
+                if response_J['success']==True : # if response.status() != 200, then fail
                     write_csv(response_J ,response_time, runcount)
                 else :
                     write_csv_failed(Tf,Sf)
@@ -163,7 +163,10 @@ def write_csv(response_J,response_time,runcount):
             writer.writerow(field_names)
             header_added=True
         writer.writerow(new_row)
-
+except ValueError:
+    writer_err.writerow(['valueerror',mapping])
+except indexError:
+    writer_err.writerow(['indexError',mapping])
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.DEBUG, filename="testlogfile", filemode="a+",
