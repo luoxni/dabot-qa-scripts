@@ -123,9 +123,9 @@ def write_csv(response_J,response_time,runcount):
 
     matches = response_J['mappings']['matches']
 
-    for match in matches :
+    for index,match in enumerate(matches):
         match_values =[]
-        index = matches.index(match)
+        #index = matches.index(match)
         if temp_run_count!=runcount:
             match_values.append(runcount)
             temp_run_count= runcount
